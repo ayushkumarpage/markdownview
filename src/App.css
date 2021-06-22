@@ -1,0 +1,25 @@
+main {
+  width: 90%;
+  margin: 0 auto
+}
+
+.heading {
+  text-align: center;
+  color: #002078;
+}
+ 
+.editor, .preview {
+  background-color: #b1bee3;
+  color: #000;
+  border-radius: 3px;
+  border: 2px solid #003ce3;
+  font-size: 12px;
+  padding: 10px;
+  width: 100%;
+  height: 400px;
+}
+  
+.preview {
+  overflow: auto;
+  margin-bottom: 15px;
+}
